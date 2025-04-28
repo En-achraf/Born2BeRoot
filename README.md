@@ -1,10 +1,10 @@
-Born2beroot
+# Born2beroot
 A System Administration project from the 42 Network curriculum.
 
-🛡️ Overview
+# 🛡️ Overview
 Born2beroot is a foundational project aimed at strengthening your system administration skills. The goal is to create a virtual machine under strict security rules and hardening practices. You will configure the operating system, manage users and groups, and implement strong security policies to ensure the system is robust against common vulnerabilities.
 
-📚 Project Objectives
+# 📚 Project Objectives
 Install and configure a GNU/Linux operating system (Debian or CentOS, depending on the subject).
 
 Create and configure users and groups with strict rules.
@@ -17,7 +17,7 @@ Implement firewall and security policies to protect the server.
 
 Create a detailed report explaining all the configurations and decisions made.
 
-⚙️ Technologies Used
+# ⚙️ Technologies Used
 Linux (Debian / CentOS)
 
 LVM (Logical Volume Manager)
@@ -34,7 +34,7 @@ Sudoers configuration
 
 System services management
 
-📌 Key Features
+# 📌 Key Features
 Mandatory strong password policies
 
 Sudo rules with limited rights
@@ -51,22 +51,22 @@ User and group management with strict permissions
 
 Security audits and hardening checklist
 
-🧠 What I Learned
+# 🧠 What I Learned
 Deep understanding of Linux administration and security principles.
 
 Importance of documenting every decision for transparency and clarity.
 
 How to set up a server that respects professional security standards.
 
-📄 Project Status
+# 📄 Project Status
 ✅ Completed - All mandatory requirements fulfilled
 ➕ Bonus parts in progress (if you did bonus)
 
-💡 Final Advice
+# 💡 Final Advice
 Learn to create it, it's better — trust me.
 
-🧙 Author
+# 🧙 Author
 Your Full Name | 42 Network Student
 
-🚀 Final Thought
+# 🚀 Final Thought
 "Security is not a product, but a process." — Bruce Schneier
